@@ -16,4 +16,6 @@ Python, pandas, yfinance, matplotlib, quantstats, smtplib, schedule
 Project developed to apply Python skills to portfolio risk analysis, as a complement to my AML screening project
 ([aml-screening-tool](https://github.com/ctngc/aml-screening-tool)).
 
-
+## Sample Output
+A full risk tearsheet comparing VWCE to the S&P 500 is available here:
+[VWCE vs S&P 500 - Risk Tearsheet](https://htmlpreview.github.io/?https://github.com/ctngc/ETF-PYTHON-QUANT-Portfolio-Analysis/blob/main/rapport_vwce_vs_sp500.html)
