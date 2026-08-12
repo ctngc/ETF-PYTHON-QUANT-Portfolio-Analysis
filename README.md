@@ -1,6 +1,6 @@
 # ETF Portfolio Analysis
 
-A personal project for quantitative portfolio analysis applied to my own ETF investments, with automated reporting.
+A personal project for quantitative portfolio analysis applied to ETF investments with automated reporting.
 
 ## Features
 - Retrieval of historical market data (yfinance)
